@@ -111,7 +111,7 @@ class InstaBot:
         except:
             pass
         s="inko bhi follow kr do frands :\n";
-        for i in not_following_back:
+        for i in you_not_following_back:
                 s+=i+"\n";
         self.driver.find_element_by_xpath('//textarea[contains(@placeholder,"Message...")]')\
                 .send_keys(s)
