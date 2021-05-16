@@ -12,3 +12,4 @@ HOW TO RUN:
 5.Enter asked credentials  
 
 P.S If it gives error set corresponding chrome driver in line 12 of instaBot.py that matches your chrome
+P.S The code may be needed to update if updates are made at the website
